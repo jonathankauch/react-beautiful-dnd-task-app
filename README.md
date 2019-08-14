@@ -1,11 +1,16 @@
+
+## Demo
+
 ![](demo.gif)
+
+## Librairies
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project is using:
 - `react-beautiful-dnd`
 - `@atlaskit/css-reset`
 - `styled-components`
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
