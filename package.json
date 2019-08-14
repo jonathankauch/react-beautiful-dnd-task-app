@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "@atlaskit/css-reset": "2.0.0",
+    "react": "16.3.2",
+    "react-beautiful-dnd": "8.0.5",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "styled-components": "3.2.6"
   },
   "scripts": {
     "start": "react-scripts start",
